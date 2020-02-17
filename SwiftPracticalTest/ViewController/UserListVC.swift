@@ -137,3 +137,8 @@ extension UserListVC: UITableViewDelegate, UITableViewDataSource {
     
   }
 }
+
+/**
+ git config --global user.email "vishal.nandoriya@techniexe.com"
+ git config --global user.name "Vishal Techniexe"
+ */
